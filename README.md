@@ -1,6 +1,6 @@
 # 📊 Save & Load Reports in JavaScript PivotView Component
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![JavaScript](https://img.shields.io/badge/JavaScript-ES5-F7DF1E.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Syncfusion EJ2](https://img.shields.io/badge/Syncfusion%20EJ2-Latest-0078D4.svg)](https://www.syncfusion.com/)
+[![License](https://img.shields.io/badge/license-SEE%20LICENSE-blue.svg)](https://www.syncfusion.com/content/downloads/syncfusion_license.pdf) [![JavaScript](https://img.shields.io/badge/JavaScript-ES5-F7DF1E.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Syncfusion EJ2](https://img.shields.io/badge/Syncfusion%20EJ2-Latest-0078D4.svg)](https://www.syncfusion.com/)
 
 > **Production-ready example demonstrating toolbar-based report persistence in Syncfusion Essential JS 2 PivotView** — save and restore pivot table configurations with seamless localStorage integration and web-standards compliance.
 
